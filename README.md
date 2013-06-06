@@ -1,2 +1,0 @@
-samokritik-foc.github.com
-=========================
